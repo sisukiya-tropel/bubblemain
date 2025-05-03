@@ -1,5 +1,5 @@
 ---
-name: Deuda Técnica
+name: Tech Debt
 about: Registra mejoras técnicas necesarias para mantener la salud del proyecto.
 title: "[TECH-DEBT] - "
 labels: tech-debt
