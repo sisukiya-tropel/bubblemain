@@ -10,21 +10,20 @@ assignees: []
 
 Product Owner: @person
 
-## Objetivo
+## Objective
 
 ¿Qué impacto tendrá? ¿A quién beneficia?
 
-## Alcance inicial
 
-Describe qué se incluye y qué no. 
+## Acceptance Criteria
 
-## Criterios de aceptación
-
-- [ ] Criterio 1
-- [ ] Criterio 2
+- [ ] Criteria 1
+- [ ] Criteria 2
 - [ ] ...
 
-## Recursos/Referencias
+## Resources/References
 
 Links a Figma, Docs, ideas previas, etc.
+
+## Notes
 
